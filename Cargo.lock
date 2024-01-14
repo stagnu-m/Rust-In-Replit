@@ -3,5 +3,9 @@
 version = 3
 
 [[package]]
+name = "calculator"
+version = "0.1.0"
+
+[[package]]
 name = "fcc-rust-in-replit"
 version = "0.1.0"

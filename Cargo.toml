@@ -1,3 +1,4 @@
+workspace = { members = ["calculator"] }
 [package]
 name = "fcc-rust-in-replit"
 version = "0.1.0"
